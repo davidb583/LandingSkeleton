@@ -1,36 +1,41 @@
-# [Skeleton](http://getskeleton.com)
-Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
+# [Skeleton](http://davidb583.github.io/LandingSkeleton)
+LandingSkeleton helps you to kickstart your landing page for free. It is a collection of pre-defined sections, samples, components and advice so that .
 
-Check out <http://getskeleton.com> for documentation and details.
+Check out [IN PROGRESS] for documentation and details.
 
 ## Getting started
 
-There are a couple ways to download Skeleton:
-- [Download the zip](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip)
-- Clone the repo: `git clone https://github.com/dhg/Skeleton.git` (Note: this is under active development, so if you're looking for stable and safe, use the zipped download)
+There are a couple ways to download LandingSkeleton:
+- [Download the zip](https://github.com/davidb583/LandingSkeleton/releases/download/1.0.0/LandingSkeleton-1.0.0.zip)
+- Clone the repo: `git clone https://github.com/davidb583/LandingSkeleton.git` (Note: this is under active development, so if you're looking for stable and safe, use the zipped download)
 
+
+
+### Why it's awesome
+
+LandingSkeleton is lightweight and simple. I brings focus on how to make high-conversion landing page, with littl
+
+- Extremely low entry effort : even if you are a new coder, all you have to do is modify the text and links, you don't even have to touch code, apart from copy/pasting.
+- Mobile first
+- Extremely lightweight page, since retention and load time are
+- Many advice are given through the docs to help you
+- Everything is free and open-source
 
 ### What's in the download?
 
-The download includes Skeleton's CSS, Normalize CSS as a reset, a sample favicon, and an index.html as a starting point.
+The download includes LandingSkeleton's CSS, Normalize CSS as a reset, a sample favicon and logo, and an index.html as a starting point.
 
 ```
 Skeleton/
 ├── index.html
 ├── css/
 │   ├── normalize.min.css
-│   └── skeleton.css
+│   └── landing_skeleton.css
 └── images/
     └── favicon.ico
+    └── logo.png
 
 ```
-
-### Why it's awesome
-
-Skeleton is lightweight and simple. It styles only raw HTML elements (with a few exceptions) and provides a responsive grid. Nothing more.
-- Around 400 lines of CSS unminified and with comments
-- It's a starting point, not a UI framework
-- No compiling or installing...just vanilla CSS
 
 
 ## Browser support
@@ -41,12 +46,12 @@ Skeleton is lightweight and simple. It styles only raw HTML elements (with a few
 - Safari latest
 - IE latest
 
-The above list is non-exhaustive. Skeleton works perfectly with almost all older versions of the browsers above, though IE certainly has large degradation prior to IE9.
+The above list is non-exhaustive. LandingSkeleton works perfectly with almost all older versions of the browsers above, though IE certainly has large degradation prior to IE9.
 
 
 ## License
 
-All parts of Skeleton are free to use and abuse under the [open-source MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md).
+All parts of Skeleton are free to use and abuse under the [open-source MIT license](https://github.com/davidb583/LandingSkeleton/blob/master/LICENSE.md).
 
 
 ## Extensions
@@ -60,9 +65,9 @@ Have an extension you want to see here? Just shoot an email to hi@getskeleton.co
 
 ## Colophon
 
-Skeleton was built using [Sublime Text 3](http://www.sublimetext.com/3) and designed with [Sketch](http://bohemiancoding.com/sketch). The typeface [Raleway](http://www.google.com/fonts/specimen/Raleway) was created by [Matt McInerney](http://matt.cc/) and [Pablo Impallari](http://www.impallari.com/). Code highlighting by Google's [Prettify library](https://code.google.com/p/google-code-prettify/). Icons in the header of the documentation are all derivative work of icons from [The Noun Project](http://thenounproject.com). [Feather](http://thenounproject.com/term/feather/22073) by Zach VanDeHey, [Pen](http://thenounproject.com/term/pen/21163) (with cap) by Ed Harrison, [Pen](http://thenounproject.com/term/pen/32847) (with clicker) by Matthew Hall, and [Watch](http://thenounproject.com/term/watch/48015) by Julien Deveaux.
+LandingSkeleton was built using beautiful Skeleton, as the name implies.
 
 
 ## Acknowledgement
 
-Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+LandingSkeleton was created by [David Boureau](https://twitter.com/davidb583) for a better web.
