@@ -11,17 +11,6 @@
   border-bottom: 1px solid #ddd;
 }
 
-
-/* Button
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.button {
-  border-radius: 100px;
-  border-top-left-radius: 100px;
-  border-top-right-radius: 100px;
-  border-bottom-right-radius: 100px;
-  border-bottom-left-radius: 100px;
-}
-
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .phones {
