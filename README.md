@@ -1,4 +1,4 @@
-# [Skeleton](http://davidb583.github.io/LandingSkeleton)
+# [LandingSkeleton](http://davidb583.github.io/LandingSkeleton)
 LandingSkeleton helps you to kickstart your landing page for free. It is a collection of pre-defined sections, samples, components and advice so that .
 
 Check out [IN PROGRESS] for documentation and details.
@@ -51,21 +51,12 @@ The above list is non-exhaustive. LandingSkeleton works perfectly with almost al
 
 ## License
 
-All parts of Skeleton are free to use and abuse under the [open-source MIT license](https://github.com/davidb583/LandingSkeleton/blob/master/LICENSE.md).
-
-
-## Extensions
-
-The following are extensions to Skeleton built by the community. They are not officially supported, but all have been tested and are compatible with v2.0 (exact release noted):
-- [Skeleton on LESS](https://github.com/whatsnewsaes/Skeleton-less): Skeleton built with LESS for easier replacement of grid, color, and media queries. (Last update was to match v2.0.1)
-- [Skeleton on Sass](https://github.com/whatsnewsaes/Skeleton-Sass): Skeleton built with Sass for easier replacement of grid, color, and media queries. (Last update was to match v2.0.1)
-
-Have an extension you want to see here? Just shoot an email to hi@getskeleton.com with your extension!
+All parts of LandingSkeleton are free to use and abuse under the [open-source MIT license](https://github.com/davidb583/LandingSkeleton/blob/master/LICENSE.md).
 
 
 ## Colophon
 
-LandingSkeleton was built using beautiful Skeleton, as the name implies.
+LandingSkeleton was built using beautiful [Skeleton](http://getskeleton.com), as the name implies.
 
 
 ## Acknowledgement
