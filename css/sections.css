@@ -1,2 +1,11 @@
 
+  .hero .marginizer {
+    margin-top: 80px;
+  }
+@media only screen and (min-width: 700px) {
+
+.hero .marginizer {
+  margin-top: 160px;
+}
+}
 
