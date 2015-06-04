@@ -24,6 +24,13 @@
 - Clearing
 */
 
+/* Section
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.section-below {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
